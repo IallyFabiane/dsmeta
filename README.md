@@ -4,7 +4,7 @@
 
 <h2> Project deployed on: https://dsmetaapplication.netlify.app/</h2>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block gap= 10px"><br>
   <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="TS" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="center" alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">

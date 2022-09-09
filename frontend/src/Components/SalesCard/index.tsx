@@ -17,13 +17,17 @@ function SalesCard(): JSX.Element {
   const [sales, setSales] = useState<Sale[]>([]);
 
   useEffect(() => {
+
+    const dmin = minDate.toISOString().slice(0, 10); //configurando os parâmetros de data para a URL
+    const dmax = maxDate.toISOString().slice(0, 10); //configurando os parâmetros de data para a URL
+
     //conexão entre o front-end e o back-end
     axios
-      .get(`${BASE_URL}/sales`) //variável de ambiente definida no arquivo requests.ts
+      .get(`${BASE_URL}/sales?minDate=${dmin}&maxDate=${dmax}`) //variável de ambiente definida no arquivo requests.ts
       .then((response) => {
         setSales(response.data.content);
       });
-  }, []);
+  }, [minDate, maxDate]);
 
   return (
     <div className="dsmeta-card">

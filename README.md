@@ -11,6 +11,7 @@
   <img align="center" alt="Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Netlify" height="140" width="140" src="https://download.logo.wine/logo/Netlify/Netlify-Logo.wine.png" />
   <img align="center" alt="Heroku" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" />
-   <img align="center" alt="Twilio" height="140" width="140" src="https://companiesmarketcap.com/img/company-logos/256/TWLO.png" />
+  <img align="center" alt="Twilio" height="140" width="140" src="https://companiesmarketcap.com/img/company-logos/256/TWLO.png" />
   <img align="center" alt="H2" height="60" width="60" src="https://www.h2database.com/html/images/h2-logo-2.png" />
+  <img align="center" alt="Yarn" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
 </div>
